@@ -1,0 +1,37 @@
+This list is all of the current buoy models for BC 5.4
+
+They are organized in West to East order. 
+
+1. port_small
+2. port_med
+3. port_post
+4. stbd_small
+5. stbd_med
+6. stbd_post
+7. pref_port_small
+8. pref_port
+9. pref_stbd_small
+10. pref_stbd
+11. Green_can
+12. GreenCan
+13. green_cone
+14. Red_Cone
+15. safe
+16. mooring
+17. rw
+18. ry
+19. special_1
+20. special_post
+21. black
+22. black_cone
+23. other
+24. north_small
+25. north
+26. east_small
+27. east
+28. south_small
+29. south
+30. west_small
+31. west
+32. safe
+33. special_post
